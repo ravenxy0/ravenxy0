@@ -33,7 +33,7 @@
 ---
 
 ## 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem-erdem.vercel.app/api/spotify)](https://open.spotify.com/user/vdy97maxj086iw2kvn9iizf2k)
+[![Spotify](https://novatorem-erdem.vercel.app/api/spotify)](https://spotify.com/user/vdy97maxj086iw2kvn9iizf2k)
 
 ---
 
