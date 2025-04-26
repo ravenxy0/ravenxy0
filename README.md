@@ -29,9 +29,9 @@
 - 📦 **E-Commerce Website** - Laravel + React based dynamic product management system  
 
 ## 📫 Connect With Me
-[![Discord](https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/your_discord_id)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
+[![Discord](https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/461986315911692288)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ravenxymedya)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 ---
 > **"Consistency beats talent. Keep building, keep growing."** 🚀
